@@ -1,0 +1,17 @@
+- title: "Examples Directory Overview"
+  path: examples/README.md
+  date: 2024-06-10
+  authors:
+    - kesku
+  tags:
+    - overview
+    - examples
+
+- title: "Wiki Directory Overview"
+  path: wiki/README.md
+  date: 2024-06-10
+  authors:
+    - kesku
+  tags:
+    - overview
+    - wiki
